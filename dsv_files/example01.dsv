@@ -1,0 +1,22 @@
+,,001,6,Nummer,String,md5
+//the first character defines the delimiter (if the next char is not the same, use multiple chars as delimiter)
+//the following 3 chars define the dsv version
+//the next char defines the line in which content will start (counting from zero)
+//the head lines (lines before content) can contain additional infos, attributes or comments
+//if a line starts with '//' the line will be interpreted as comment
+1,fjFBRI75Whbl3dT4Uqlw26KS4JKhBoKg,41ff8d990148abb9fd0ffb8ce2283594
+2,HlRW9u3dsnDG4X4NclM9a7XFqNHbIxJQ,cb1f6c8d87ff756790dd7fe8bcf1653d
+3,ktnEJkbJtuAbCw6ZJ6KXF401dQ9kbslB,a077729a51b29e20a67bf1d4e50f19d8
+4,n9XTOoviixOxexnuM72e58e6RsI1yzxb,7ad6b461d75effe7f51330e8913c3fe1
+5,0suss4ZyyXL47tv2FL0JpSzfkGYLn2Ve,5d30565a664c4dd963776ca6613fcb1d
+6,OzePQ5d6Z5TsyK8oaCcoSMZG6iPyTpei,1ed47edecbf9e1ced3b316739b788302
+7,nbOxT7CkAf7CKlMaw3lK5ngOSCndgAKK,0df7ab646df9271bb71d739e2c969d63
+8,BjdzW9GNFEk0hDarIuOpDDIUpAAIOTyQ,9e1a3b642015f1901e7ffb4a54d65051
+9,AXYaqJ2ilmDu0ALwN4rl3Q0sCQqqGBBH,55cf8e3fe9dc23f1b0ecd23e9028990a
+10,3eI8Np6qLqLDMbYDiPzlfpbS2sBySxoL,6d2bcd6861cabca17f12899264a50e32
+11,1yijDVNBruo7gXonI4TgzYpMv8NXpA2h,1060bcc2e9af28a31572a61d84b9e448
+12,Fh68CG2RczmjeyxRCovMjOgvEX8sBjbG,2455ee4c08d1fed29d34994b79b5c8e6
+13,XJAfWD0m9Hi2RH6V7MrrUDTz1ws3Dr1a,e67070d1fc6dfe2e5d8005de3ecffa44
+14,65f5ad1dab9a4017ac39245351a2e97c,VdaGqOHcApgSFEr6i1pnpRhsthYcb4Ex
+15,zR0sg33SAOArZB7hngIE9eQFHSiBzlRo,45f3ef25a3cd61ab073508b0de2d464a
+16,YSbXHLWT5wxMJ8P66db59AmNf0BcXKBw,fef0f35d7619a408e400c5daf498e948
