@@ -1,7 +1,8 @@
-,,001,6,Nummer,String,md5
+,,001,7,var_dump,Nummer,String,md5
 //the first character defines the delimiter (if the next char is not the same, use multiple chars as delimiter)
 //the following 3 chars define the dsv version
 //the next char defines the line in which content will start (counting from zero)
+//than comes the plugin, which must be used to process the data
 //the head lines (lines before content) can contain additional infos, attributes or comments
 //if a line starts with '//' the line will be interpreted as comment
 1,fjFBRI75Whbl3dT4Uqlw26KS4JKhBoKg,41ff8d990148abb9fd0ffb8ce2283594

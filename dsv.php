@@ -50,15 +50,7 @@ function DelimiterSeparatedValues($file, $export='xml', $save='output', $csv=fal
           }
         else
           {
-	        if($save=='output')
-	          {
-		        $dsv_export = implode('',$dsv_export);
-		        echo $dsv_export;
-	          }
-	        else
-	          {
-		        
-	          }
+	        include('./plugins/'.$export.'/export.php');
           }
         fclose($handle);
       }
